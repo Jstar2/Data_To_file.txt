@@ -1,5 +1,7 @@
 # Data_To_file.txt
-Data saving and retrieving to text file in simple command line interface.  
+Data saving and retrieving to text file.  
+
+Simple command line interface Java project in Maven.
 
 Make sure to change file path in service class it is marked clearly.
 
